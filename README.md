@@ -1,5 +1,12 @@
 # 企业融资与养老金投资策略分析
 
+## 在线展示
+
+[**TWE并购分析网页与PPT**](https://pythonerjavaer.github.io/interview-portfolio/projects/twe.html) · [**养老金网页、PPT与模拟器**](https://pythonerjavaer.github.io/interview-portfolio/projects/retirement.html)
+
+在线幻灯片、PPT下载、融资试算和养老金浏览器模拟。浏览器模拟为2026年重建的演示计算，区别于下方原Excel模型。
+
+
 **Finance Decision Case Studies · Financial Analysis · 2023**
 
 围绕两个金融决策问题展开研究：企业如何评估并购后的融资承受能力，以及养老金如何根据成员生命周期调整投资策略。本仓库将原始分析整理为面向招聘者的案例作品集，附生命周期 Excel 模型与演示指南。
